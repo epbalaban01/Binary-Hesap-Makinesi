@@ -1,0 +1,10 @@
+C:\Users\ebalaban\source\repos\İkili Hesap Makinesi Oyunu\İkili Hesap Makinesi Oyunu\bin\Debug\İkili Hesap Makinesi Oyunu.exe.config
+C:\Users\ebalaban\source\repos\İkili Hesap Makinesi Oyunu\İkili Hesap Makinesi Oyunu\bin\Debug\İkili Hesap Makinesi Oyunu.exe
+C:\Users\ebalaban\source\repos\İkili Hesap Makinesi Oyunu\İkili Hesap Makinesi Oyunu\bin\Debug\İkili Hesap Makinesi Oyunu.pdb
+C:\Users\ebalaban\source\repos\İkili Hesap Makinesi Oyunu\İkili Hesap Makinesi Oyunu\obj\Debug\İkili Hesap Makinesi Oyunu.csprojAssemblyReference.cache
+C:\Users\ebalaban\source\repos\İkili Hesap Makinesi Oyunu\İkili Hesap Makinesi Oyunu\obj\Debug\İkili_Hesap_Makinesi_Oyunu.Properties.Resources.resources
+C:\Users\ebalaban\source\repos\İkili Hesap Makinesi Oyunu\İkili Hesap Makinesi Oyunu\obj\Debug\İkili Hesap Makinesi Oyunu.csproj.GenerateResource.cache
+C:\Users\ebalaban\source\repos\İkili Hesap Makinesi Oyunu\İkili Hesap Makinesi Oyunu\obj\Debug\İkili Hesap Makinesi Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\ebalaban\source\repos\İkili Hesap Makinesi Oyunu\İkili Hesap Makinesi Oyunu\obj\Debug\İkili Hesap Makinesi Oyunu.exe
+C:\Users\ebalaban\source\repos\İkili Hesap Makinesi Oyunu\İkili Hesap Makinesi Oyunu\obj\Debug\İkili Hesap Makinesi Oyunu.pdb
+C:\Users\ebalaban\source\repos\İkili Hesap Makinesi Oyunu\İkili Hesap Makinesi Oyunu\obj\Debug\İkili_Hesap_Makinesi_Oyunu.Form1.resources
